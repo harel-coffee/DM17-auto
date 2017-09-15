@@ -1,0 +1,1000 @@
+0,harvard
+1,stanford
+2,mit
+3,cambridge
+4,oxford
+5,columbia
+6,california berkeley
+7,chicago
+8,princeton
+9,yale
+10,california institute
+11,cornell
+12,tokyo
+13,pennsylvania
+14,california los angeles
+15,johns hopkins
+16,california san diego
+17,california san francisco
+18,michigan
+19,kyoto
+20,northwestern
+21,new york
+22,swiss federal institute   in zurich
+23,seoul national
+24,wisconsin–madison
+25,hebrew   jerusalem
+26,washington
+27,rockefeller
+28,duke
+29,toronto
+30,college london
+31,texas at austin
+32,keio
+33,illinois at urbana–champaign
+34,imperial college london
+35,École polytechnique
+36,waseda
+37,north carolina at chapel hill
+38,École normale supérieure - paris
+39,virginia
+40,weizmann institute  science
+41,mcgill
+42,rutgers
+43,southern california
+44,minnesota
+45,ohio state
+46,pittsburgh
+47,osaka
+48,california davis
+49,dartmouth college
+50,washington  in st louis
+51,pennsylvania state
+52,national taiwan
+53,pierre-and-marie-curie
+54,edinburgh
+55,purdue
+56,british columbia
+57,california santa barbara
+58,florida
+59,peking
+60,manchester
+61,boston
+62,national   singapore
+63,paris-sud
+64,colorado boulder
+65,utah
+66,carnegie mellon
+67,maryland college park
+68,copenhagen
+69,karolinska institute
+70,vanderbilt
+71,rochester
+72,arizona
+73,tsinghua
+74,texas southwestern medical center
+75,ludwig maximilian   munich
+76,lomonosov moscow state
+77,katholieke universiteit leuven
+78,emory
+79,geneva
+80,tel aviv
+81,ruprecht karl   heidelberg
+82,utrecht
+83,tohoku
+84,texas md anderson cancer center
+85,georgia institute
+86,brown
+87,california irvine
+88,melbourne
+89,sapienza   rome
+90,erasmus  rotterdam
+91,king's college london
+92,zurich
+93,notre dame
+94,sydney
+95,swiss federal institute   in lausanne
+96,tufts
+97,texas a&m
+98,queensland
+99,oslo
+100,alberta
+101,arizona state
+102,yonsei
+103,technical   munich
+104,groningen
+105,michigan state
+106,helsinki
+107,case western reserve
+108,mines paristech
+109,aarhus
+110,amsterdam
+111,leiden
+112,radboud  nijmegen
+113,rice
+114,baylor college  medicine
+115,vu  amsterdam
+116,new south wales
+117,montreal
+118,nagoya
+119,paris diderot  - paris 7
+120,georgetown
+121,barcelona
+122,indiana  - bloomington
+123,kyushu
+124,iowa
+125,uppsala
+126,lund
+127,tokyo institute
+128,bristol
+129,colorado denver | anschutz medical campus
+130,royal institute
+131,glasgow
+132,ghent
+133,nanyang technological
+134,mcmaster
+135,free   berlin
+136,technion – israel institute
+137,são paulo
+138,nottingham
+139,kaist
+140,korea
+141,southern methodist
+142,monash
+143,tübingen
+144,icahn school  medicine at mount sinai
+145,western  (  western ontario)
+146,alabama at birmingham
+147,miami
+148,humboldt   berlin
+149,california santa cruz
+150,aix-marseille
+151,bonn
+152,southampton
+153,stony brook
+154,wake forest
+155,basel
+156,padua
+157,birmingham
+158,leeds
+159,australian national
+160,oregon health & science
+161,albert ludwig   freiburg
+162,yeshiva
+163,south florida
+164,cincinnati
+165,shanghai jiao tong
+166,grenoble alpes
+167,technical   denmark
+168,hong kong
+169,hamburg
+170,milan
+171,sheffield
+172,calgary
+173,maryland baltimore
+174,trinity college dublin
+175,the witwatersrand
+176,göttingen
+177,stockholm
+178,massachusetts medical school
+179,université libre de bruxelles
+180,lausanne
+181,goethe  frankfurt
+182,hokkaido
+183,zhejiang
+184,illinois at chicago
+185,indiana -purdue  indianapolis
+186,cardiff
+187,louisiana state
+188,cologne
+189,wayne state
+190,pohang   science and
+191,fudan
+192,ottawa
+193,erlangen-nuremberg
+194,strasbourg
+195,new mexico
+196,bern
+197,bologna
+198,queen mary   london
+199,münster
+200,liverpool
+201,montpellier
+202,paris descartes
+203,georgia
+204,iowa state
+205,kansas
+206,george washington
+207,massachusetts amherst
+208,missouri–columbia
+209,tu dresden
+210,turin
+211,claude bernard  lyon 1
+212,western australia
+213,north carolina state
+214,karlsruhe institute
+215,newcastle
+216,california riverside
+217,moscow institute  physics and
+218,maastricht
+219,rwth aachen
+220,sungkyunkwan
+221,autonomous   barcelona
+222,science and   china
+223,complutense   madrid
+224,connecticut
+225,hanyang
+226,paul sabatier  - toulouse iii
+227,chinese   hong kong
+228,brandeis
+229,kiel
+230,durham
+231,texas health science center at houston
+232,houston
+233,laval
+234,texas health science center at san antonio
+235,manitoba
+236,leicester
+237,gothenburg
+238,tennessee knoxville
+239,college dublin
+240,julius-maximilian's   würzburg
+241,nanjing
+242,université catholique de louvain
+243,johannes gutenberg   mainz
+244,london school  hygiene & tropical medicine
+245,medical   vienna
+246,national cheng kung
+247,düsseldorf
+248,vienna
+249,oregon state
+250,florence
+251,auckland
+252,sun yat-sen
+253,naples federico ii
+254,delft
+255,florida state
+256,dundee
+257,wageningen  and research centre
+258,virginia commonwealth
+259,virginia polytechnic institute and state
+260,oklahoma
+261,waterloo
+262,sussex
+263,drexel
+264,cape town
+265,charles  in prague
+266,aberdeen
+267,kentucky
+268,reading
+269,norwegian   science and
+270,ulm
+271,at buffalo
+272,bergen
+273,tsukuba
+274,lisbon
+275,duisburg-essen
+276,thomas jefferson
+277,valencia
+278,okayama
+279,warwick
+280,northeastern
+281,colorado state
+282,lehigh
+283,louisville
+284,pisa
+285,vrije universiteit brussel
+286,queen's
+287,tulane
+288,rensselaer polytechnic institute
+289,south carolina
+290,genoa
+291,delaware
+292,hannover medical school
+293,city college  new york
+294,ruhr  bochum
+295,autonomous   madrid
+296,national and kapodistrian   athens
+297,leipzig
+298,umeå
+299,medical   south carolina
+300,dalhousie
+301,london school  economics
+302,bordeaux
+303,antwerp
+304,nankai
+305,rome tor vergata
+306,st andrews
+307,medical college  wisconsin
+308,vita-salute san raffaele
+309,york
+310,liège
+311,hong kong   science and
+312,trieste
+313,hiroshima
+314,exeter
+315,queen's  belfast
+316,regensburg
+317,xiamen
+318,adelaide
+319,chulalongkorn
+320,kobe
+321,nebraska–lincoln
+322,dalian
+323,navarra
+324,vermont
+325,rush
+326,federal   rio de janeiro
+327,stuttgart
+328,stellenbosch
+329,east anglia
+330,porto
+331,jena
+332,perugia
+333,tianjin
+334,ferrara
+335,york
+336,kyungpook national
+337,boston college
+338,pavia
+339,marburg
+340,national autonomous   mexico
+341,oregon
+342,hong kong polytechnic
+343,eindhoven
+344,otago
+345,st george's   london
+346,centralesupélec
+347,saint louis
+348,victoria
+349,colorado school  mines
+350,washington state
+351,justus liebig  giessen
+352,kansas state
+353,indian institute   delhi
+354,technical   berlin
+355,innsbruck
+356,huazhong   science and
+357,ben-gurion   the negev
+358,bari aldo moro
+359,linköping
+360,versailles saint-quentin-en-yvelines
+361,simon fraser
+362,texas medical branch at galveston
+363,city   hong kong
+364,shandong
+365,turku
+366,jilin
+367,tokyo medical and dental
+368,eastern finland
+369,chinese academy  medical sciences & peking union medical college
+370,chinese academy  sciences
+371,buenos aires
+372,catholic   the sacred heart
+373,wesleyan
+374,college  william and mary
+375,san diego state
+376,scuola normale superiore di pisa
+377,southern denmark
+378,milan - bicocca
+379,temple
+380,pontifical catholic   chile
+381,wuhan
+382,innsbruck medical
+383,harbin institute
+384,darmstadt
+385,guelph
+386,alabama - tuscaloosa
+387,saarland
+388,polytechnic   milan
+389,pompeu fabra
+390,national tsing hua
+391,beijing normal
+392,santiago de compostela
+393,granada
+394,nihon
+395,central florida
+396,george mason
+397,lorraine
+398,grenoble institute
+399,new hampshire
+400,lancaster
+401,xi'an jiaotong
+402,national chiao tung
+403,at albany suny
+404,iceland
+405,central south
+406,campinas
+407,verona
+408,bath
+409,miami
+410,arkansas for medical sciences
+411,aalto
+412,nebraska medical center
+413,twente
+414,west virginia
+415,south china
+416,pusan national
+417,renmin   china
+418,delhi
+419,chonnam national
+420,gwangju institute  science and
+421,chiba
+422,hawaii at manoa
+423,oulu
+424,texas at dallas
+425,swedish   agricultural sciences
+426,sichuan
+427,rostock
+428,jagiellonian
+429,saint petersburg state
+430,tampere
+431,vienna
+432,loyola  chicago
+433,savoy
+434,brigham young
+435,modena and reggio emilia
+436,siena
+437,mississippi
+438,aristotle   thessaloniki
+439,chile
+440,tongji
+441,kyung hee
+442,college cork
+443,chalmers
+444,oklahoma state
+445,ewha womans
+446,east china   science and
+447,macquarie
+448,warsaw
+449,seville
+450,southeast
+451,kanazawa
+452,denver
+453,parma
+454,wollongong
+455,strathclyde
+456,syracuse
+457,kumamoto
+458,zaragoza
+459,brunel
+460,polytechnic   valencia
+461,augusta
+462,udine
+463,technical   dortmund
+464,École normale supérieure de lyon
+465,dayton
+466,kwazulu-natal
+467,ohio
+468,saskatchewan
+469,ulsan
+470,indian institute  science
+471,newcastle
+472,juntendo
+473,polytechnic   catalonia
+474,bielefeld
+475,wyoming
+476,ljubljana
+477,sherbrooke
+478,concordia
+479,martin luther   halle-wittenberg
+480,coimbra
+481,illinois institute
+482,rennes 1
+483,the basque country
+484,nice sophia antipolis
+485,osaka city
+486,georgia state
+487,eötvös loránd
+488,clemson
+489,nevada reno
+490,niigata
+491,texas tech
+492,maryland baltimore county
+493,akron
+494,lanzhou
+495,nantes
+496,auburn
+497,wisconsin–milwaukee
+498,hull
+499,hanover
+500,catania
+501,oviedo
+502,bar-ilan
+503,nara institute  science and
+504,konstanz
+505,tartu
+506,brescia
+507,nagasaki
+508,tokyo   science
+509,bayreuth
+510,panjab
+511,tasmania
+512,crete
+513,chonbuk national
+514,surrey
+515,tromsø - the arctic   norway
+516,royal holloway   london
+517,bremen
+518,federal   minas gerais
+519,technical   madrid
+520,science and  beijing
+521,mahidol
+522,creighton
+523,lille 1: sciences and technologies
+524,middle east technical
+525,canterbury
+526,hunan
+527,missouri–kansas city
+528,tokyo metropolitan
+529,potsdam
+530,palermo
+531,baylor
+532,medical   graz
+533,aalborg
+534,ajou
+535,zagreb
+536,gyeongsang national
+537,james cook
+538,malaya
+539,national chung hsing
+540,yokohama city
+541,international school for advanced studies
+542,trento
+543,curtin
+544,nui galway
+545,tokushima
+546,lübeck
+547,shinshu
+548,national central
+549,east china normal
+550,tokyo   agriculture and
+551,soochow  (suzhou)
+552,plymouth
+553,otto-von-guericke  magdeburg
+554,ioannina
+555,cagliari
+556,central china normal
+557,catholic   korea
+558,portsmouth
+559,graduate  for advanced studies
+560,arkansas - fayetteville
+561,windsor
+562,suny downstate medical center
+563,deakin
+564,national yang-ming
+565,new york medical college
+566,national polytechnic institute  toulouse
+567,kent state
+568,la laguna
+569,alaska fairbanks
+570,chang gung
+571,montana state
+572,griffith
+573,yokohama national
+574,federal   rio grande do sul
+575,second   naples
+576,new mexico state
+577,montana
+578,utah state
+579,china agricultural
+580,universidade nova de lisboa
+581,inha
+582,hertfordshire
+583,tata institute  fundamental research
+584,aveiro
+585,toledo
+586,rhode island
+587,indian institute   madras
+588,cranfield
+589,salamanca
+590,carleton
+591,texas at arlington
+592,tokyo women's medical
+593,bangor
+594,minho
+595,shanghai
+596,indian institute   roorkee
+597,"eastern piedmont ""amedeo avogadro"""
+598,memorial   newfoundland
+599,graz
+600,queensland
+601,king saud
+602,florida international
+603,southern illinois  carbondale
+604,belgrade
+605,fribourg
+606,konkuk
+607,paris-est créteil val-de-marne
+608,wuhan
+609,beijing   chemical
+610,fuzhou
+611,city  london
+612,braunschweig
+613,indian institute   kharagpur
+614,gunma
+615,mississippi state
+616,northern illinois
+617,cantabria
+618,northeast normal
+619,uniformed services   the health sciences
+620,massey
+621,federal   são paulo
+622,tokai
+623,la trobe
+624,donghua
+625,nagoya city
+626,los andes (colombia)
+627,marche polytechnic
+628,jyväskylä
+629,open  (uk)
+630,semmelweis
+631,flinders
+632,new orleans
+633,Örebro
+634,the balearic islands
+635,idaho
+636,comenius  in bratislava
+637,paris 13
+638,québec at montreal
+639,rovira i virgili
+640,toyama
+641,kitasato
+642,old dominion
+643,national technical   athens
+644,warsaw
+645,ehime
+646,hong kong baptist
+647,state   new york upstate medical
+648,birkbeck   london
+649,patras
+650,american   beirut
+651,istanbul
+652,unesp são paulo state
+653,binghamton
+654,polytechnic   turin
+655,tampere
+656,essex
+657,palacký  olomouc
+658,portland state
+659,victoria   wellington
+660,debrecen
+661,china medical  (taiwan)
+662,czech technical  in prague
+663,maine
+664,liverpool john moores
+665,albany medical college
+666,louisiana tech
+667,hacettepe
+668,chungnam national
+669,swinburne
+670,girona
+671,keele
+672,south australia
+673,banaras hindu
+674,beijing institute
+675,indian institute   bombay
+676,burgundy
+677,kagoshima
+678,sharif
+679,graz
+680,lille 2   health and law
+681,françois rabelais tours
+682,tilburg
+683,new jersey institute
+684,kaiserslautern
+685,kent
+686,royal college  surgeons in ireland
+687,osaka prefecture
+688,l'aquila
+689,insubria
+690,nevada las vegas
+691,vigo
+692,heriot-watt
+693,science malaysia
+694,salerno
+695,texas at san antonio
+696,pretoria
+697,gifu
+698,rochester institute
+699,istanbul technical
+700,picardie jules verne
+701,loughborough
+702,capital medical
+703,king abdullah   science and
+704,beihang
+705,swansea
+706,king fahd   petroleum and minerals
+707,szeged
+708,greifswald
+709,johannes kepler   linz
+710,jichi medical
+711,kaohsiung medical
+712,loma linda
+713,missouri–st louis
+714,yamanashi
+715,jawaharlal nehru centre for advanced scientific research
+716,roma tre
+717,yamaguchi
+718,chongqing
+719,ankara
+720,Évry val d'essonne
+721,augsburg
+722,alabama in huntsville
+723,hasselt
+724,paul valéry  montpellier iii
+725,mons
+726,tehran
+727,alicante
+728,sapporo medical
+729,national   la plata
+730,masaryk
+731,natural resources and life sciences vienna
+732,messina
+733,institut national des sciences appliquées de lyon
+734,castilla–la mancha
+735,málaga
+736,poitiers
+737,second military medical
+738,vilnius
+739,kindai
+740,kurume
+741,rio de janeiro state
+742,missouri   science and
+743,san francisco state
+744,north dakota state
+745,florida institute
+746,haifa
+747,north texas
+748,shizuoka
+749,blaise pascal
+750,east carolina
+751,kyoto prefectural   medicine
+752,marquette
+753,córdoba (spain)
+754,jaume i
+755,national research nuclear  mephi
+756,ulster
+757,sydney
+758,université de namur
+759,aston
+760,ege
+761,jacobs  bremen
+762,salento
+763,national sun yat-sen
+764,north carolina at charlotte
+765,École normale supérieure de cachan
+766,indian institute   kanpur
+767,g d'annunzio  chieti-pescara
+768,sogang
+769,zhengzhou
+770,cairo
+771,michigan technological
+772,dublin city
+773,saga
+774,neuchâtel
+775,salzburg
+776,miguel hernández   elche
+777,calabria
+778,yamagata
+779,Åbo akademi
+780,national polytechnic institute
+781,caen normandy
+782,electronic science and   china
+783,northeastern  (china)
+784,saitama medical
+785,stirling
+786,kangwon national
+787,jiangnan
+788,hyogo
+789,jikei  school  medicine
+790,hohenheim
+791,memphis
+792,taipei medical
+793,howard
+794,norwegian   life sciences
+795,toho
+796,maynooth
+797,chung-ang
+798,concepción
+799,tottori
+800,dongguk
+801,bradford
+802,yeungnam
+803,maribor
+804,bowling green state
+805,brighton
+806,nanjing   science and
+807,chiang mai
+808,aberystwyth
+809,magna græcia   catanzaro
+810,sassari
+811,huazhong agricultural
+812,bo?aziçi
+813,regina
+814,northwest  (china)
+815,nanjing medical
+816,alcalá
+817,murcia
+818,agh   science and
+819,tehran   medical sciences
+820,mie
+821,nanjing agricultural
+822,northern arizona
+823,hefei
+824,wright state
+825,all india institute  medical sciences new delhi
+826,veterinary medicine vienna
+827,bilkent
+828,chungbuk national
+829,orléans
+830,ocean   china
+831,putra  malaysia
+832,massachusetts boston
+833,nanjing   aeronautics and astronautics
+834,murdoch
+835,perpignan via domitia
+836,jean monnet
+837,oldenburg
+838,angers
+839,showa
+840,k?chi
+841,inje
+842,rouen
+843,isfahan
+844,the republic (uruguay)
+845,makerere
+846,electro-communications
+847,western sydney
+848,siegen
+849,budapest    and economics
+850,extremadura
+851,brock
+852,fourth military medical
+853,sia
+854,southwest
+855,valladolid
+856,gazi
+857,miyazaki
+858,new england (australia)
+859,nanjing normal
+860,shanghai normal
+861,south alabama
+862,royal veterinary college   london
+863,florida atlantic
+864,seoul
+865,sejong
+866,osnabrück
+867,wales trinity saint david
+868,rmit
+869,china   geosciences (wuhan)
+870,manchester metropolitan
+871,dankook
+872,fukuoka
+873,ritsumeikan
+874,hamamatsu  school  medicine
+875,hunter college
+876,pécs
+877,nanjing
+878,federal   santa catarina
+879,southern mississippi
+880,mannheim
+881,new brunswick
+882,jinan
+883,trent
+884,national chung cheng
+885,ulsan national institute  science and
+886,clarkson
+887,nicolaus copernicus  in toru?
+888,quaid-i-azam
+889,wroc?aw
+890,china   geosciences (beijing)
+891,north dakota
+892,south china normal
+893,cyprus
+894,federico santa maría technical
+895,tarbiat modares
+896,saitama
+897,the ryukyus
+898,western brittany
+899,chung yuan christian
+900,the catholic   america
+901,charles darwin
+902,cádiz
+903,basilicata
+904,lleida
+905,shimane
+906,california merced
+907,harbin engineering
+908,wuppertal
+909,wilfrid laurier
+910,fluminense federal
+911,third military medical
+912,brasília
+913,federal   abc
+914,massachusetts lowell
+915,amirkabir
+916,national taiwan   science and
+917,nagoya institute
+918,thessaly
+919,yangzhou
+920,jadavpur
+921,adam mickiewicz  in pozna?
+922,jaén
+923,central lancashire
+924,puerto rico at mayagüez
+925,federal   paraná
+926,shahid beheshti   medical sciences
+927,queens college city   new york
+928,northwestern polytechnical
+929,oakland
+930,calcutta
+931,kyoto institute
+932,teikyo
+933,national taiwan normal
+934,waikato
+935,pukyong national
+936,united arab emirates
+937,southern medical
+938,gachon
+939,lethbridge
+940,national   córdoba
+941,beijing   posts and telecommunications
+942,shiraz
+943,tianjin medical
+944,hallym
+945,north carolina at greensboro
+946,carlos iii   madrid
+947,federal   são carlos
+948,national taiwan ocean
+949,almería
+950,hyderabad
+951,xiangtan
+952,china medical  (prc)
+953,dokuz eylül
+954,jiangsu
+955,zhejiang
+956,École centrale de lyon
+957,hirosaki
+958,novosibirsk state
+959,ain shams
+960,hunan normal
+961,federal   bahia
+962,wroc?aw
+963,national   colombia
+964,chosun
+965,federal   pernambuco
+966,texas at el paso
+967,ryerson
+968,silesia
+969,federal   santa maria
+970,beijing
+971,limerick
+972,camerino
+973,pau and pays de l'adour
+974,ca' foscari   venice
+975,yuan ze
+976,bucharest
+977,xidian
+978,fukui
+979,babe?-bolyai
+980,public   navarre
+981,qingdao
+982,king juan carlos
+983,ibaraki
+984,mansoura
+985,chung shan medical
+986,shenzhen
+987,henan normal
+988,harbin medical
+989,feng chia
+990,reims champagne-ardenne
+991,a coruña
+992,south china agricultural
+993,zhejiang normal
+994,alexandria
+995,valenciennes and hainaut-cambresis
+996,fu jen catholic
+997,chongqing medical
+998,northwest a&f
+999,china pharmaceutical

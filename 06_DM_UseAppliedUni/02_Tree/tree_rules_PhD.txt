@@ -1,0 +1,29 @@
+if ( gre <= 0.5 ) {
+	if ( countryCoded <= 0.5 ) {
+		if ( highLevelBachUni <= 0.5 ) {
+			return [[ 77.  41.]]
+		} else {
+			return [[ 30.  46.]]
+		}
+	} else {
+		if ( countryCoded <= 5.5 ) {
+			return [[  67.  304.]]
+		} else {
+			return [[ 20.  10.]]
+		}
+	}
+} else {
+	if ( countryCoded <= 0.5 ) {
+		if ( paper <= 0.166666671634 ) {
+			return [[  43.  102.]]
+		} else {
+			return [[ 101.  402.]]
+		}
+	} else {
+		if ( gpaMasters <= 3.60500001907 ) {
+			return [[   7.  114.]]
+		} else {
+			return [[ 10.  44.]]
+		}
+	}
+}
