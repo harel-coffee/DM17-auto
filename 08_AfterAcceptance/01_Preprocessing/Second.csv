@@ -1,0 +1,66 @@
+,country,countryCode,degree,degreeCode,eng,fieldGroup,fund,gpaB,gpaM,gre,highBU,highMU,paper,targetUni,uniRank,year,rejUni
+2,united kingdom,4,Doctorate,1,8.0,7,TRUE,3.5,3.442985691,FALSE,FALSE,FALSE,7.0,heriot-watt,692.0,2007,n/a
+3,united states,0,Doctorate,1,8.0,5,TRUE,2.5,3.5,TRUE,TRUE,FALSE,11.0,northwestern,20.0,2010,"UC Berkeley, Georgia Tech"
+5,united states,0,Doctorate,1,8.0,10,TRUE,3.5,4.0,TRUE,TRUE,TRUE,5.0,cornell,11.0,2008,"Virginia Tech, INSEAD, MIT Sloan,Cornegie Mellon , Michigan-Ann Arbor, University of Washington, GATech, Purdue (IE), UBC"
+6,sweden,2,Masters,0,7.0,0,FALSE,3.0,3.442985691,TRUE,TRUE,FALSE,0.0,chalmers,443.0,2008,"UC Berkeley, UC Davis, Carneigie Mellon"
+7,spain,3,Masters,0,8.0,10,TRUE,2.5,3.442985691,FALSE,FALSE,FALSE,0.0,carlos iii de madrid,,2008,Chalmers
+8,australia,1,Masters,0,6.5,10,FALSE,3.0,2.5,FALSE,TRUE,TRUE,0.0,adelaide,318.0,2009,n/a
+9,united states,0,Masters,0,8.0,0,TRUE,3.5,3.5,FALSE,TRUE,FALSE,1.0,"new york , abu dhabi",21.0,2008,Columbia
+10,canada,0,Doctorate,1,7.5,11,TRUE,3.0,4.0,TRUE,TRUE,TRUE,11.0,mcmaster,134.0,2008,"EPFL,Maryland,Mcgill,Waterloo,New Mexico"
+12,united states,0,Masters,0,7.5,0,TRUE,3.5,3.0,TRUE,FALSE,FALSE,1.0,tallinn,,2007,"OSU,Case Western,Oregon"
+13,canada,0,Doctorate,1,8.0,0,TRUE,2.5,3.0,TRUE,TRUE,TRUE,0.0,calgary,172.0,2008,"UCSB, Texas A&amp;amp;M, Alberta, Waterloo"
+15,united states,0,Doctorate,1,8.0,10,TRUE,3.5,3.5,TRUE,TRUE,TRUE,2.0,northwestern,20.0,2008,n/a
+16,canada,0,Doctorate,1,7.5,0,TRUE,2.0,4.0,FALSE,TRUE,TRUE,12.0,mcmaster,134.0,2008,"Queen&amp;#039;s, London Buiness School, U of Calgary, U of California-Irvine, Minnesota, Boston, MIT, Michigan, Purdue, York, UWO"
+17,canada,0,Doctorate,1,7.0,7,TRUE,3.5,3.5,FALSE,FALSE,TRUE,4.0,queens,,2008,n/a
+18,canada,0,Masters,0,7.5,2,TRUE,2.0,3.442985691,FALSE,TRUE,FALSE,5.0,western ontario,,2008,minnesota
+19,united states,0,Doctorate,1,7.5,11,TRUE,2.5,3.5,TRUE,TRUE,TRUE,4.0,miami,147.0,2008,UIC
+20,united states,0,Doctorate,1,8.5,1,TRUE,3.0,4.0,TRUE,TRUE,TRUE,4.0,johns hopkins,15.0,2008,Northwestern - SFU - Iowa State - UIC - Maryland - UPenn - Rice - Delaware
+21,united states,0,Doctorate,1,7.5,13,TRUE,2.5,3.0,TRUE,FALSE,TRUE,4.0,wayne state,189.0,2007,n/a
+22,n/a,0,Doctorate,1,7.5,4,FALSE,2.0,3.5,TRUE,TRUE,TRUE,12.0,nigerian turkish nile,,2008,"Carnegie Mellon, UPenn,Davis"
+23,united states,0,Masters,0,6.5,7,FALSE,2.5,3.442985691,TRUE,FALSE,FALSE,3.0,louisville,283.0,2008,"University of alaska fairbanks, NTU"
+24,canada,0,Masters,0,6.5,13,TRUE,3.0,3.442985691,TRUE,TRUE,FALSE,0.0,windsor,561.0,2008,n/a
+25,united states,0,Doctorate,1,7.0,1,TRUE,2.5,2.5,FALSE,TRUE,TRUE,1.0,washington state,26.0,2008,n/a
+26,united states,0,Doctorate,1,6.5,4,TRUE,2.5,2.5,TRUE,TRUE,TRUE,4.0,florida,58.0,2007,"Minnesota,Boston college"
+27,united states,0,Doctorate,1,8.0,2,TRUE,2.5,4.0,TRUE,TRUE,TRUE,2.0,boston,61.0,2008,n/a
+28,n/a,0,Doctorate,1,8.0,4,TRUE,3.0,4.0,TRUE,FALSE,TRUE,1.0,n/a,,2008,n/a
+29,n/a,0,Doctorate,1,9.0,1,FALSE,3.5,4.0,TRUE,TRUE,TRUE,4.0,caltec(no fund),,2008,"MIT, berkeley, stanford"
+30,united states,0,Doctorate,1,7.5,11,TRUE,3.5,4.0,TRUE,TRUE,TRUE,7.0,"california, los angeles",,2008,"Stanford, Harvard, Michigan Ann Arbor"
+31,united states,0,Doctorate,1,7.0,5,TRUE,3.0,3.0,TRUE,TRUE,TRUE,1.0,texas a &amp;amp; m,,2008,n/a
+32,united states,0,Doctorate,1,8.0,1,TRUE,3.0,4.0,TRUE,TRUE,TRUE,4.0,stanford,1.0,2008,UIUC
+33,united states,0,Doctorate,1,8.0,1,TRUE,3.0,3.5,TRUE,FALSE,TRUE,2.0,rensselaer polytechnic institute,288.0,2008,Northwestern - UCI - Michigan Ann Arbor - Carnegie Mellon
+34,canada,0,Doctorate,1,8.0,12,TRUE,3.0,3.98,TRUE,TRUE,FALSE,3.0,toronto,29.0,2012,"Rutgers, Stanford, UCLA, UCSD, Duke"
+35,united states,0,Masters,0,7.0,4,TRUE,2.5,3.442985691,TRUE,TRUE,FALSE,0.0,the air,,2007,saskachewan-Milan
+36,united states,0,Doctorate,1,7.5,1,TRUE,2.5,2.5,TRUE,TRUE,TRUE,5.0,northern illinois,616.0,2008,University of Connecticut
+37,united states,0,Masters,0,7.5,0,TRUE,3.0,3.442985691,TRUE,TRUE,FALSE,1.0,auburn,496.0,2007,n/a
+39,n/a,0,Doctorate,1,7.5,0,TRUE,3.5,3.442985691,TRUE,TRUE,FALSE,1.0,jhu: us,,2008,"Carnegie Mellon:PhD,Berkeley:PhD,UCSD:PhD"
+40,canada,0,Doctorate,1,8.0,2,TRUE,3.5,3.5,TRUE,FALSE,TRUE,1.0,toronto,29.0,2008,"Caltech, Rochester, Illinois Urbana, Maryland, Arizona"
+41,united states,0,Doctorate,1,9.0,0,TRUE,3.5,3.5,TRUE,TRUE,TRUE,3.0,johns hopkins,15.0,2008,"upenn, berkeley, pittsburg, vanderbilt, duke."
+42,united states,0,Doctorate,1,8.0,5,TRUE,2.5,2.5,TRUE,TRUE,TRUE,0.0,auburn,496.0,2008,n/a
+43,united states,0,Doctorate,1,7.0,0,TRUE,2.5,1.0,TRUE,TRUE,FALSE,0.0,columbia,5.0,2007,n/a
+44,united states,0,Doctorate,1,7.0,0,TRUE,3.5,3.78,TRUE,FALSE,FALSE,7.0,rensselaer polytechnic institute,288.0,2007,"Boston university, university of florida"
+45,united states,0,Doctorate,1,7.5,1,TRUE,3.5,3.442985691,TRUE,TRUE,FALSE,0.0,kansas state,205.0,2008,n/a
+46,united states,0,Doctorate,1,8.0,11,TRUE,4.0,3.442985691,TRUE,TRUE,FALSE,2.0,michigan - ann arbor,18.0,2007,"Stanford,Berkeley,Carnegie Mellon"
+47,canada,0,Doctorate,1,7.5,0,TRUE,3.5,3.5,TRUE,TRUE,TRUE,2.0,british columbia,5.0,2008,"Drexel,EPFL,UIUC,Rochester,Texas A&amp;amp;M"
+48,canada,0,Masters,0,7.0,5,TRUE,3.0,3.442985691,TRUE,FALSE,FALSE,0.0,mcgill,41.0,2008,"Gtech, berkeley"
+49,canada,0,Masters,0,7.5,0,TRUE,3.5,3.442985691,FALSE,FALSE,FALSE,0.0,saskatchewan,468.0,2008,EPFL
+50,united states,0,Doctorate,1,7.5,11,TRUE,3.0,4.0,TRUE,TRUE,TRUE,2.0,louisiana tech,666.0,2008,n/a
+53,canada,0,Masters,0,8.0,5,TRUE,3.0,3.442985691,FALSE,TRUE,FALSE,0.0,ubc (okanagan campus)i,,2008,OTTAWA+CARLETON
+55,australia,1,Masters,0,8.0,0,FALSE,2.5,3.442985691,TRUE,FALSE,FALSE,0.0,monash,142.0,2009,"Calgary, Waterloo, Warwick, Southampton"
+56,sweden,2,Masters,0,8.0,0,FALSE,1.5,3.442985691,FALSE,FALSE,FALSE,0.0,kth ????,,2007,"Humburg,Turku"
+58,united states,0,Doctorate,1,8.0,11,TRUE,3.5,3.442985691,TRUE,TRUE,FALSE,0.0,"california, berkeley",,2008,"Austin, Georgia Inst. of Technology, University of Waterloo"
+59,united states,0,Doctorate,1,8.0,1,TRUE,2.5,4.0,TRUE,TRUE,TRUE,4.0,management,,2009,"U Toronto, UBC, McGill"
+60,n/a,0,Masters,0,8.5,1,FALSE,4.0,3.442985691,TRUE,TRUE,FALSE,1.0,texas at austin,31.0,2009,"Stanford, UC Berkeley, UW Madison, Carnegie Melon, U of T"
+61,united states,0,Masters,0,7.0,0,TRUE,2.0,3.442985691,TRUE,TRUE,FALSE,0.0,west virginia,39.0,2008,don`t know yet
+63,n/a,0,Doctorate,1,8.0,0,FALSE,2.5,3.5,FALSE,TRUE,TRUE,1.0,mcgill,41.0,2008,"MIT,UBC,New york Univ"
+64,united states,0,Doctorate,1,6.5,2,TRUE,2.0,3.0,TRUE,TRUE,TRUE,0.0,washington  in st. louis,26.0,2008,n/a
+65,canada,0,Doctorate,1,8.0,0,TRUE,2.5,3.5,TRUE,TRUE,TRUE,4.0,sfu or nus,,2008,Carlton - GATech
+67,united states,0,Doctorate,1,8.0,0,TRUE,3.5,4.0,FALSE,TRUE,TRUE,3.0,california coast,,2001,n/a
+68,united states,0,Doctorate,1,8.5,4,TRUE,4.0,4.0,TRUE,FALSE,FALSE,2.0,stanford,1.0,2008,"BERKELEY, UCSD, USC , UMASS, UCLA"
+69,united states,0,Doctorate,1,8.0,0,FALSE,2.5,3.442985691,TRUE,TRUE,FALSE,0.0,"california, los angeles",,2008,"University of Washington, Rice University"
+70,united states,0,Doctorate,1,8.0,7,FALSE,2.5,3.5,TRUE,TRUE,TRUE,1.0,texas at austin,31.0,2008,UCSD-USC-UCI-UCSB
+71,canada,0,Masters,0,7.0,10,FALSE,3.0,3.442985691,FALSE,TRUE,FALSE,1.0,waterloo,261.0,2008,n/a
+72,united states,0,Doctorate,1,7.0,5,TRUE,1.5,3.0,TRUE,TRUE,TRUE,4.0,buffalo at sunny,,2008,North Carolina State University
+74,n/a,0,Doctorate,1,8.0,5,FALSE,4.0,3.8,TRUE,TRUE,TRUE,0.0,arizona,72.0,2008,UCI
+75,united states,0,Doctorate,1,7.0,11,TRUE,3.5,3.0,TRUE,FALSE,TRUE,6.0,iowa,124.0,2008,Cornell
+76,canada,0,Doctorate,1,7.5,5,TRUE,3.0,3.0,TRUE,TRUE,TRUE,0.0,mcgill,41.0,2008,Columbia -McMaster
+77,singapore,5,Masters,0,7.0,0,FALSE,3.0,3.442985691,FALSE,TRUE,FALSE,2.0,national  singapore,,2009,UCI
