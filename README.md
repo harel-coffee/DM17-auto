@@ -1,6 +1,6 @@
 # DM17
 
-* **Accepted Paper for "International conference on machine learning 2017"**
+* **Accepted Paper in "International conference on machine learning 2017"**
 
 ## Process of following this project:
 
