@@ -2,6 +2,19 @@
 
 * **Accepted Paper in "International conference on machine learning 2017"**
 
+To cite us:
+
+```tex
+@inproceedings{yazdipour2017data,
+  title={Data Driven Decision Support to Fund Graduate Studies in Abroad Universities},
+  author={Yazdipour, Shahriar and Taherian, Nahid},
+  booktitle={2017 International Conference on Machine Learning and Data Science (MLDS)},
+  pages={44--50},
+  year={2017},
+  organization={IEEE}
+}
+```
+
 ## Process of following this project:
 
 1. [Crawling and Extracting Data](/tree/master/01_Extracting%20Data)
